@@ -26,11 +26,10 @@ To use this script you have to:
 
 * [Download the latest release](https://github.com/lorenzoferrante/quick-html/archive/master.zip)
 * Or clone the repo: `https://github.com/lorenzoferrante/quick-html.git`
-* Copy the script in desktop
-* Open the terminal and write:
+* Copy the script in Desktop
+* Open terminal, go to Desktop and write:
 
 ```bash
-$ cd '/User/your-name/Desktop/'
 $ node script.js
 ```
 
