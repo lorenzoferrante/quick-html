@@ -33,3 +33,8 @@ fs.writeFile('Web-Template/js/app.js', '', function (err) {
     if (err) throw err;
     console.log('Created JS file!');
 });
+
+fs.writeFile('Web-Template/package.json', '', function (err) {
+    if (err) throw err;
+    console.log('Created JSON file!');
+});
