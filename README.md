@@ -1,6 +1,6 @@
 #quick-html
 
-A simple node script that create a ready to use, html, css and js file, all in a folder.
+For all the bored front-end developer that when they have to start a nee web project, have to write afresh html, css and js pages. Running this javascript file in your terminal, it will output a folder in your desktop with inside an index.html, index.css and app.js ready to use.
 
 ## Quick Start
 
