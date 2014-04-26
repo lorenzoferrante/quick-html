@@ -33,7 +33,7 @@ To use this script you have to:
 $ node script.js
 ```
 
-The script automatically create a folder named *Web-Template* with a html, css, js and json file ready to use. 
+The script automatically create a folder named **Web-Template** with a html, css, js and json file ready to use. 
 
 ## Author
 
