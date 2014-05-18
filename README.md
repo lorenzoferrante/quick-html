@@ -13,13 +13,6 @@ $ make install
 ```
 Or go to [node.js web page](http://nodejs.org/).
 
-To use this script you will need two node modules. To install them open terminal and write:
-
-```bash
-$ npm i word-wrap --save-dev
-$ npm install mkdirp
-```
-
 ## Usage
 
 To use this script you have to:
