@@ -26,6 +26,12 @@ To use this script you have to:
 $ node script.js
 ```
 
+* Or download the minified version and write:
+
+```bash
+$ node script.min.js
+```
+
 The script automatically create a folder named **Web-Template** with a html, css, js and json file ready to use. 
 
 ## Author
