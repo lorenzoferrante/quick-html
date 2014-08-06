@@ -4,14 +4,7 @@ For all the bored front-end developer that when they have to start a new web pro
 
 ## Quick Start
 
-If you haven't installed node and npm yet write in terminal:
-
-```bash
-$ ./configure
-$ make
-$ make install
-```
-Or go to [node.js web page](http://nodejs.org/).
+Go to [node.js web page](http://nodejs.org/) to install node and npm.
 
 ## Usage
 
